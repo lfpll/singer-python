@@ -1,5 +1,8 @@
 # Changelog
 
+## 5.13.1
+  * Upgrade version of jsonschema [#158](https://github.com/singer-io/singer-python/pull/158)
+
 ## 5.13.0
   * Add support for dev mode argument parsing [#158](https://github.com/singer-io/singer-python/pull/158)
 
